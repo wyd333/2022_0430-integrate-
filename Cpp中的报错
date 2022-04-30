@@ -1,0 +1,4 @@
+Cpp中的报错
+
+[错误] expected unqualified-id before '{' token
+; 加在了不该加的地方
